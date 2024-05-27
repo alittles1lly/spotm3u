@@ -1,0 +1,5 @@
+#format: playlistlink | playlistname | file options
+
+#file options:
+#-s: 
+#-f:
