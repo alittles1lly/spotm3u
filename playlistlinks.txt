@@ -1,5 +1,7 @@
 #format: playlistlink | playlistname | file options
 
 #file options:
-#-s: 
-#-f:
+#-s: if the audio files are stripped: True/False
+#-f: Format of audio files: mp3(default), wav, flac, ogg, m4a
+
+#Example: Playlistlink | Playlistname | -f=wav -s=True
